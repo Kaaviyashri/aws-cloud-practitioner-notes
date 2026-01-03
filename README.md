@@ -1,16 +1,20 @@
-# aws-cloud-practitioner-notes
-Comprehensive handwritten AWS CCP (CLF-C02) study notes based on AWS Skill Builder Cloud Practitioner Essentials. Shared for beginners.
 # AWS Certified Cloud Practitioner – Handwritten Notes
 
-Personal handwritten study notes created while preparing for the AWS Certified Cloud Practitioner (CLF-C02) exam.
+Comprehensive handwritten study notes created while preparing for the
+AWS Certified Cloud Practitioner (CLF-C02) exam. Shared to help beginners
+understand AWS cloud fundamentals.
 
 ## Preparation Source
 - AWS Skill Builder – Cloud Practitioner Essentials
-- Personal understanding + summaries
+- Personal understanding and exam-oriented summaries
+
+## Notes Format
+- Handwritten PDF
+- Shared via GitHub Releases due to large file size
 
 ## Download Notes
-The PDF is shared under **Releases** (large file size).
+The complete PDF is available under **Releases**.
 
 ## Disclaimer
 These are personal study notes for learning purposes.
-Not official AWS material. No exam dumps or real questions included.
+They are not official AWS materials and do not contain exam dumps or real exam questions.
